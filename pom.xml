@@ -18,6 +18,6 @@
         <module>Producer</module>
     </modules>
 
-
+    <packaging>pom</packaging>
 
 </project>
